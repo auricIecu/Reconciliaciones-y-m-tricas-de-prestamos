@@ -1,0 +1,11 @@
+{
+  "total_loans": 15000,
+  "num_mismatches": 12040,
+  "pct_mismatches": 0.8026666666666666,
+  "num_anomalies": 149,
+  "total_approved": 2281854077.0,
+  "total_ledger": 2282235919.0,
+  "total_abs_difference": 37780620.0,
+  "num_quality_issues": 0,
+  "pct_quality_issues": 0.0
+}

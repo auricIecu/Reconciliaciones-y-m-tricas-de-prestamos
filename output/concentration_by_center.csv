@@ -1,0 +1,11 @@
+CentroCosto,mismatch,num_loans,total_abs_diff
+Barcelona,False,726,364286
+Barcelona,True,3040,9164007
+Bilbao,False,284,146296
+Bilbao,True,1122,3412748
+Madrid,False,857,430208
+Madrid,True,3606,10813511
+Sevilla,False,448,234189
+Sevilla,True,1915,5752210
+Valencia,False,645,327104
+Valencia,True,2357,7136061

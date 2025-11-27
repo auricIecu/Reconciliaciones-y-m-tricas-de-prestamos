@@ -1,0 +1,2 @@
+total_loans,num_mismatches,pct_mismatches,num_anomalies,total_approved,total_ledger,total_abs_difference,num_quality_issues,pct_quality_issues
+15000,12040,0.8026666666666666,149,2281854077.0,2282235919.0,37780620.0,0,0.0
