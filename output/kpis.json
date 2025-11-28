@@ -1,11 +1,11 @@
 {
-  "total_loans": 15000,
-  "num_mismatches": 12040,
-  "pct_mismatches": 0.8026666666666666,
-  "num_anomalies": 149,
-  "total_approved": 2281854077.0,
-  "total_ledger": 2282235919.0,
-  "total_abs_difference": 37780620.0,
-  "num_quality_issues": 0,
-  "pct_quality_issues": 0.0
+  "total_loans": 500000,
+  "num_mismatches": 474963,
+  "pct_mismatches": 0.949926,
+  "num_anomalies": 4990,
+  "total_approved": 126272926094.0,
+  "total_ledger": 126266444371.0,
+  "total_abs_difference": 4999326215.0,
+  "num_quality_issues": 2845,
+  "pct_quality_issues": 0.00569
 }
