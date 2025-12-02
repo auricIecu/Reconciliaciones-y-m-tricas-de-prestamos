@@ -54,3 +54,15 @@ Los resultados aparecen en la carpeta output/.
 - Outliers en abs_difference (>p99)
 - Duplicados por LoanID
 
+### Versión Databricks / Spark
+
+Además del prototipo original en pandas, el proyecto incluye una versión PySpark 
+montada en Databricks con los siguientes componentes:
+
+- Lectura desde Volumes en Databricks
+- Full Outer Join entre originación y contabilidad en Spark
+- Enriquecimiento con tabla de riesgo (PD, LGD, EAD)
+- Creación de buckets de PD en Spark
+- KPIs de reconciliación y riesgo
+- Publicación final en una tabla Delta: `workspace.default.reconciliation_enriched`
+- Ejecución programada mediante Databricks Jobs (pipeline diario)
