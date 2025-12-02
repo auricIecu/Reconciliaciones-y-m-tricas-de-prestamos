@@ -45,3 +45,12 @@ python etl.py
 
 Los resultados aparecen en la carpeta output/.
 
+### Data Quality Checks Implementados
+- Missing PD/LGD/EAD
+- Saldos contables negativos
+- Importe aprobado inválido
+- Provisiones inconsistentes
+- Centro de coste faltante
+- Outliers en abs_difference (>p99)
+- Duplicados por LoanID
+
